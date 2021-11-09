@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "My Name"
-description = "A Journey of Life and Learning"
+title = "Lilo Travel"
+description = "How to book your vacations...?"
 footerLeft = "Powered by ❤️ and [lernblog.org](https://www.lernblog.org)"
-footerRight = ""
+footerRight = "By Lili & Leo"
 +++
