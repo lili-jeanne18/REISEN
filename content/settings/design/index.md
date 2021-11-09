@@ -2,6 +2,6 @@
 headless = true
 icon = "/media/unbenannt.png"
 logo = "/media/unbenannt.png"
-image = "/media/miami-international-airport.jpg"
+image = "/media/293397-min.jpg"
 color = "#3d6a7f"
 +++
