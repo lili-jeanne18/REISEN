@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Lili & Leo"
-image = ""
+image = "/media/unbenannt.png"
 email = ""
 +++
